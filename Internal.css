@@ -181,9 +181,14 @@ grid-template-areas: unset;
 .content > * {
 grid-area: auto !important;
 }
+    .indextext {
+           font-size: 20px;
+       }
+}
    @media (max-width: 768px) { 
        .indextext {
            font-size: 20px;
        }
 }
+
 
